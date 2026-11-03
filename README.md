@@ -15,6 +15,18 @@ A collection of beginner-friendly C++ programs for learning Object-Oriented Prog
 - Platform: GitHub
 
 ## Objective
-To strengthen C++ and OOP fundamentals through simple programs and hands-on practice.
+Object Oriented Programming Using C++
 
-> Add your own explanations and practice programs as you learn.
+Objective
+
+To enhance my understanding of Object-Oriented Programming through hands-on C++ coding and practical implementation.
+
+Student Details
+
+Field| Details
+Name| Darshini C Javalagi
+Roll Number| 216
+Division| B
+USN| 01FE23BEC021
+Semester| VII
+University| KLE Technological University
