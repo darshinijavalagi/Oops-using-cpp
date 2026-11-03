@@ -15,12 +15,7 @@ A collection of beginner-friendly C++ programs for learning Object-Oriented Prog
 - Platform: GitHub
 
 ## Objective
-Object Oriented Programming Using C++
-
-Objective
-
-To enhance my understanding of Object-Oriented Programming through hands-on C++ coding and practical implementation.
-
+ To strengthen my understanding of object-oriented programming through hands-on C++ coding and practical implementation.
  ## Student Details
 
 <table>
