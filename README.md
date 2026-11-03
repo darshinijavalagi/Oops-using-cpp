@@ -21,12 +21,35 @@ Objective
 
 To enhance my understanding of Object-Oriented Programming through hands-on C++ coding and practical implementation.
 
-Student Details
+ ## Student Details
 
-Field| Details
-Name| Darshini C Javalagi
-Roll Number| 216
-Division| B
-USN| 01FE23BEC021
-Semester| VII
-University| KLE Technological University
+<table>
+  <tr>
+    <th>Field</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td>Darshini C Javalagi</td>
+  </tr>
+  <tr>
+    <td>Roll Number</td>
+    <td>216</td>
+  </tr>
+  <tr>
+    <td>Division</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>USN</td>
+    <td>01FE23BEC021</td>
+  </tr>
+  <tr>
+    <td>Semester</td>
+    <td>VII</td>
+  </tr>
+  <tr>
+    <td>University</td>
+    <td>KLE Technological University</td>
+  </tr>
+</table>
